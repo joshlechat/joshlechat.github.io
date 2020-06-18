@@ -1,0 +1,45 @@
+.header {
+    background-color: #493997;
+    color: #fff06d;
+    background-image: url(../Media/ChatNoir.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 450px;
+    text-align: left;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.end {
+    font-size: small;
+    text-align: center;
+}
+
+.blueyellow {
+    background-color: #493997;
+    color: #fff06d;
+}
+
+.yelllowblue {
+    background-color: #fff06d;
+    color: #493997;
+}
+
+.pbold {
+    text-shadow: white;
+    font-family: Verdana;
+    font-size: x-large;
+}
+
+.button {
+    background-color: #493997;
+    border: none;
+    color: #fff06d;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+}
